@@ -23,6 +23,10 @@ Bu proje, CalendarListPage widget'ını ekler. CalendarListPage, takvim öğeler
 Kullanım:
 - Listenin bir öğesine dokunarak ayrıntılarını düzenleyin.
 - Yeni bir takvim öğesi eklemek için FloatingActionButton'a dokunun.
+  
+Ekran Görüntüsü
+<img src="https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/82627146-b473-48e4-9056-e2bdfe49cc2e" width="400" height="800">
+<img src="https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/80457888-9325-43c7-9ad6-3236ec832460" width="400" height="800">
 
 ![Screenshot_1706477984](https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/82627146-b473-48e4-9056-e2bdfe49cc2e)
 ![Screenshot_1706477972](https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/80457888-9325-43c7-9ad6-3236ec832460)
