@@ -11,6 +11,10 @@ Usage:
 - Tap on an item in the list to edit its details.
 - Tap on the FloatingActionButton to add a new calendar item.
 
+ScreenShot
+<img src="https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/80457888-9325-43c7-9ad6-3236ec832460" width="300" height="600"> 
+<img src="https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/82627146-b473-48e4-9056-e2bdfe49cc2e" width="300" height="600">
+
 -----------------------------------------------------------------
 CalendarListPage ve CalendarPicker Widget'ı Eklendi
 
@@ -25,5 +29,5 @@ Kullanım:
 - Yeni bir takvim öğesi eklemek için FloatingActionButton'a dokunun.
   
 Ekran Görüntüsü
-<img src="https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/82627146-b473-48e4-9056-e2bdfe49cc2e" width="300" height="600">
 <img src="https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/80457888-9325-43c7-9ad6-3236ec832460" width="300" height="600"> 
+<img src="https://github.com/HaticeDilmac/calendar_crud_operations/assets/100489350/82627146-b473-48e4-9056-e2bdfe49cc2e" width="300" height="600">
